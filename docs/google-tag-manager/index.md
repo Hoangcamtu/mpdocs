@@ -83,7 +83,7 @@ First, click on **Sign up** to register using the **Google Analytics** tool
 
 ![Imgur](https://i.imgur.com/wRZ6PEA.png)
 
-- Then select a suitable campain type then click on **Continue**. Or you can create an account without choosing any campain.
+- Then select a suitable campaign type then click on **Continue**. Or you can create an account without choosing any campaign.
 
 ![Imgur](https://i.imgur.com/LIp0ADW.png)
 
@@ -98,8 +98,6 @@ First, click on **Sign up** to register using the **Google Analytics** tool
 - The serial number above your gmail is **Google Adwords ID**.
 
 ![Imgur](https://i.imgur.com/U6uTObF.png)
-
-
 
 ## How to configure
 
