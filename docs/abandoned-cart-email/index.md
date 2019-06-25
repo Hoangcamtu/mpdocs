@@ -4,13 +4,13 @@
 
 Cart abandonment is an action that consumers leave the website after adding a product to their virtual cart. Discount codes, Exit offers, and Security badges are some of the ways you can keep customers from recovering their carts. 
 
-[Magento 2 Abandoned Cart Email](https://www.mageplaza.com/magento-2-abandoned-cart-email/) extension will help you solve this problem. This extension assists  you determine which cart is having forgotten products, from those initial crumbs to send reminders, or be possible to send discounts to help shoppers easily recover their shopping cart and complete the checkout, which will absolutely skyrocket the value of orders, sales, profits for the store 
+[Magento 2 Abandoned Cart Email](https://www.mageplaza.com/magento-2-abandoned-cart-email/) extension will help you solve this problem. This extension assists  you to determine which cart is having forgotten products, from those initial crumbs to send reminders, or be possible to send discounts to help shoppers easily recover their shopping cart and complete the checkout, which will absolutely skyrocket the value of orders, sales, profits for the store 
 
 
 **Note**: 
 * Mageplaza Abandoned Cart Email is totally compatible with Mageplaza SMTP extension
 * The extension supports and keeps track of logged customers or entered emails by visitors when they're in the checkout page
-* The module will be run depend on the Cronjob configuration
+* The module will be run depending on the Cronjob configuration
 
 
 ## How to configure
@@ -27,7 +27,7 @@ Go to ``Stores > Settings > Configuration > Mageplaza Extensions > Abandoned Car
 ![](https://i.imgur.com/TpAPlK5.png)
 
 * **Enabled**: select “Yes” to enable Mageplaza Abandoned Cart Email extension
-* **Send Email to Subscribers Only**: Select **Yes**, only sending abandoned cart eamil to registed and subscribed customers. If select **No**, sending email to all abandoned carts of registed customers which are satisfy the conditions. 
+* **Send Email to Subscribers Only**: Select **Yes**, only sending abandoned cart email to registered and subscribed customers. If select **No**, sending email to all abandoned carts of registered customers which satisfy the conditions. 
 
 * **Email**: This section is for the abandoned cart reminder email settings
   * Click the ``Add`` button to add a reminder email
@@ -138,7 +138,7 @@ From the **Admin panel**, follow ``Marketing > Abandoned Cart Email > Logs``
 
 * Here will show statistics about Abandoned Cart Checkout 
 * Display statistics on checkout cart and abandoned cart grid about quantity, rate (%), total revenue ($)
-* Display statistics tables about abandoned cart after send email (ACE):
+* Display statistics tables about abandoned cart after sending email (ACE):
 * Statistics the number of abandoned cart after sending abandoned cart email
   * Number of emails sent
   * The amount can be saved after sending an email
@@ -155,7 +155,7 @@ From the Admin Panel, select `Marketing > Abandoned Cart Email > Abandoned Produ
 
 ![](https://i.imgur.com/nUff3Vp.png)
 
-- Here listing 5 most abandoned products by time filter + group by. Each product will be shown in one specific lolor. 
+- Here listing 5 most abandoned products by time filter + group by. Each product will be shown in one specific color. 
 
 ![](https://i.imgur.com/mg5kSBm.png)
 - Display information of abandoned products by time filter, **sort by = Abandoned Time** (number of times to be abandoned). The information includes:
